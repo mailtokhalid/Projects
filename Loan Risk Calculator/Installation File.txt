@@ -1,0 +1,3 @@
+C:\Users\khalid.ahmed\Documents\Python\ML Refresher Course\Loan Risk Calculator>streamlit run app.py
+
+C:\WINDOWS\system32>conda install xgboost
