@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,MaritalStatus,EducationLevel,EmploymentStatus,AnnualIncome,LoanAmountRequested,PurposeOfLoan,CreditScore,ExistingLoansCount,LatePaymentsLastYear,LoanApproved
+6b65a6a4-8b81-48f6-b38a-088ca65ed389,Carla Briggs,56,Male,Widowed,PhD,Employed,175074,30737,Home,557,0,6,No
+5be6128e-18c2-4797-a142-ea7d17be3111,William Lewis,53,Male,Widowed,Other,Unemployed,100000,36560,Car,722,4,6,No
+7412b293-4729-4739-a14f-f3d719db3ad0,Rose Jackson,19,Male,Married,Bachelor,Unemployed,220000,2264,Car,790,2,2,No
+a28defe3-9bf0-4273-9247-6f57a5e5a5ab,Rebecca Lowery,39,Male,Widowed,PhD,Unemployed,76849,49362,Business,307,4,3,No
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6,Amy Olsen,66,Male,Single,PhD,Employed,87192,28739,Car,315,4,1,No
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,Joshua Herrera,68,Male,Divorced,Other,Student,250000,17057,Home,765,1,6,No
+24933b83-7577-40a9-a491-f0b2ea1fca65,Brittany Byrd,61,Male,Single,Master,Unemployed,33305,15973,Personal,797,3,9,No
+beb79919-3f22-4af8-a3be-d01d43cf2fde,Gina Brennan,69,Male,Divorced,PhD,Unemployed,96215,19201,Home,747,0,0,No
+988c24c9-61b1-4d22-a280-1c4510435a10,Joseph Church,35,Male,Married,High School,Student,66343,24738,Home,487,2,4,No
+5715bd6f-a416-4293-84c2-e2e3444ea7c8,Mr. Robert Cantu,26,Male,Married,High School,Retired,58154,34622,Car,613,3,1,No
